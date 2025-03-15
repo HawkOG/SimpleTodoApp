@@ -1,0 +1,28 @@
+body {
+  background: #2a1a1f;
+}
+.completed {
+  border: 1px solid #a26769;
+}
+.card {
+  background: #764134;
+  color: #fff;
+}
+p {
+  margin: 0;
+}
+.btn-outline-primary:hover {
+  background: #b5ef8a;
+  color: #000;
+  border: 2px solid #b5ef8a;
+}
+.bg-success {
+  background: #8db580 !important;
+  color: #000 !important;
+  text-transform: capitalize;
+}
+
+.btn {
+  border: 2px solid #ad8350;
+  color: #fff;
+}
